@@ -18,7 +18,7 @@ int melody3[8] = {
 
 // note durations: 4 = quarter note, 8 = eighth note, etc.:
 int noteDurations[] = {
-  12, 12, 12, 12, 12, 12, 12, 12, 12
+  4, 4, 4, 4, 4, 4, 4, 4, 4
 };
 
 void setup() {
